@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import csv_reader
-import PySimpleGUIQt as sg
+import PySimpleGUI as sg
 import sys
 
 
